@@ -1,6 +1,5 @@
- **Sales Forecast SARIMAX**
-- Demonstrate the ability to work with time series data.
-Data Cleaning
-Trend and Seasonality Analysis
-Building a Predictive Model (SARIMAX)
-Forecasting
+ **Sales Forecast SARIMAX** - Demonstrate the ability to work with time series data.
+<br>Data Cleaning
+<br>Trend and Seasonality Analysis
+<br>Building a Predictive Model (SARIMAX)
+<br>Forecasting
